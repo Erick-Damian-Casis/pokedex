@@ -1,0 +1,38 @@
+.pokedex{
+  height: 500px;
+}
+
+.search-box-input{
+  position: absolute;
+  left: 395px;
+  top: 155px;
+  font-size: 32px;
+  width: 235px;
+  height: 50px;
+  border-radius: 10px;
+  background: none;
+  border: none;
+  outline: none;
+  color: aliceblue;
+}
+
+.search-box-button{
+  position: absolute;
+  left: 28px;
+  top: 40px;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background: none;
+}
+.tarjetas{
+  position: absolute;
+  top: 155px;
+  left: 90px;
+}
+.pokemon{
+  display: flex;
+  width: 150px;
+  height: 150px;
+}
+
